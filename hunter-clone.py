@@ -20,7 +20,7 @@ import os, sys
 channel_link = "https://chat.whatsapp.com/IT61AmjEjny5N6p2WBVzP7?mode=ems_copy_t"
 
 # Valid keys
-approved_keys = ["EMONBDZONE"]
+approved_keys = ["f"]
 
 def first_step():
     os.system("clear")
