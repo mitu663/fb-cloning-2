@@ -16,8 +16,6 @@ from datetime import datetime
 
 import os, sys
 
-# WhatsApp Group Link
-channel_link = "https://chat.whatsapp.com/IT61AmjEjny5N6p2WBVzP7?mode=ems_copy_t"
 
 # Valid keys
 approved_keys = ["f"]
@@ -30,11 +28,6 @@ def first_step():
 
     print("\033[1;32m JOIN OUR WHATSAPP GROUPS ✅\033[0m\n")
 
-    # 👉 WhatsApp Group Auto-Open
-    os.system("termux-open-url https://chat.whatsapp.com/IT61AmjEjny5N6p2WBVzP7?mode=ems_copy_t")
-
-    # 👉 Youtube Channel Auto-Open
-    os.system("termux-open-url https://youtube.com/@sktechit0?si=KFtp37kI0IVqck0w")
 
     print("\033[1;32m KEY APKO GROUP PIN SA MILY GI ✅ \033[0m\n")
     print("[!] Pehle WhatsApp groups par join karo.")
